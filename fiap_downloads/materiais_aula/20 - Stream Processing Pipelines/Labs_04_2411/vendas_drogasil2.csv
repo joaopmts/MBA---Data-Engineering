@@ -1,4 +1,0 @@
-loja_id,data_venda,produto,categoria,quantidade,valor_unitario,valor_total,forma_pagamento,cpf_cliente
-LOJA_001,2025-01-19 08:23:45,Dipirona 500mg,Analgesicos,2,8.50,17.00,PIX,123.222.333-44
-LOJA_001,2025-01-19 08:45:12,Vitamina C,Vitaminas,1,25.90,25.90,Credito,333.333.444-55
-LOJA_001,2025-01-19 09:12:33,Rivotril 2mg,Controlados,3,45.00,135.00,Debito,444.444.555-66
